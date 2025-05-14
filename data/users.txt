@@ -1,2 +1,4 @@
 admin,admin,admin
 user1,user1,user
+vanlongbui,vanlongbui,user
+hieu712,123456,user

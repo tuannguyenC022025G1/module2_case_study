@@ -40,7 +40,7 @@ public class DataInitializer {
 
             createFileWithContent("data/top100/vietnam.txt", """
                     Hết thương cạn nhớ
-                    Sóng gió
+                    Hồng lâu mộng
                     Hoa nở không màu
                     """);
 
